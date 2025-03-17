@@ -37,8 +37,8 @@ global.vs = '1.0.0'
 global.imagen1 = fs.readFileSync('./media/catalogo')
 
 
-global.repobot = ''
-global.grupo = ''
+global.repobot = 'https://github.com/lorenzo262621/'
+global.grupo = 'https://chat.whatsapp.com/FBFdmo5GsJcLbvobvjt9Fi'
 global.comu = ''
 global.channel = ''
 
