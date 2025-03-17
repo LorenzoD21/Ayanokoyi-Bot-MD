@@ -15,13 +15,13 @@ global.owner = [
 ]
 
 
-global.mods = ['', '51927238856']
+global.mods = ['18493140441', '51927238856']
 
 global.prems = ['51927238856']
 
 
-global.packname = ''
-global.botname = ''
+global.packname = '𝐴𝑌𝐴𝑁𝑂𝐾𝑂𝑌𝐼'
+global.botname = '𝐴𝑌𝐴𝑁𝑂𝐾𝑂𝑌𝐼'
 global.wm = ''
 global.author = 'Lorenzo & Criss'
 global.dev = '© Powered by Moon Force Team'
@@ -29,7 +29,7 @@ global.errorm = 'Error: ${error.message}'
 global.errorm2 = 'Error v:'
 global.resp = 'Tu pedido.'
 global.espera = 'Aguarde un momento'
-global.nombrebot = ''
+global.nombrebot = '𝐴𝑌𝐴𝑁𝑂𝐾𝑂𝑌𝐼'
 global.textbot = ``
 global.vs = '1.0.0'
 
