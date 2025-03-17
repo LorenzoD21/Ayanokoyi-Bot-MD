@@ -10,8 +10,8 @@ import moment from 'moment-timezone'
 
 global.owner = [
    ['', 'Owner', true],
-   ['+51927238856', 'Criss Escobar', true],
-   ['+51990841568', 'Ultra Device', false]
+   ['51927238856', 'Criss Escobar', true],
+   ['51990841568', 'Ultra Device', false]
 ]
 
 
