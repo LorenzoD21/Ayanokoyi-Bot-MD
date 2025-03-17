@@ -9,7 +9,7 @@ import moment from 'moment-timezone'
 
 
 global.owner = [
-   ['', 'Owner', true],
+   ['18493140441', 'Lorenzo Michael', true],
    ['51927238856', 'Criss Escobar', true],
    ['51990841568', 'Ultra Device', false]
 ]
@@ -22,7 +22,7 @@ global.prems = ['51927238856']
 
 global.packname = '𝐴𝑌𝐴𝑁𝑂𝐾𝑂𝑌𝐼'
 global.botname = '𝐴𝑌𝐴𝑁𝑂𝐾𝑂𝑌𝐼'
-global.wm = ''
+global.wm = '𝐴𝑌𝐴𝑁𝑂𝐾𝑂𝑌𝐼'
 global.author = 'Lorenzo & Criss'
 global.dev = '© Powered by Moon Force Team'
 global.errorm = 'Error: ${error.message}'
@@ -30,7 +30,7 @@ global.errorm2 = 'Error v:'
 global.resp = 'Tu pedido.'
 global.espera = 'Aguarde un momento'
 global.nombrebot = '𝐴𝑌𝐴𝑁𝑂𝐾𝑂𝑌𝐼'
-global.textbot = ``
+global.textbot = `𝐴𝑌𝐴𝑁𝑂𝐾𝑂𝑌𝐼`
 global.vs = '1.0.0'
 
 
