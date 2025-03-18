@@ -40,7 +40,7 @@ global.imagen1 = fs.readFileSync('./media/catalogo')
 global.repobot = 'https://github.com/lorenzo262621/'
 global.grupo = 'https://chat.whatsapp.com/FBFdmo5GsJcLbvobvjt9Fi'
 global.comu = ''
-global.channel = ''
+global.channel = 'https://whatsapp.com/channel/0029Vb9jL4r6rsQssSjulU3X'
 
 
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "543876577197-120363317332020195@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'MOONFORCE 乂 TEAM', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
