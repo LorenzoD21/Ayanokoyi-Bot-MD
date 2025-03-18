@@ -1,6 +1,6 @@
 {
 "name": "ShadowBot-MD",
-"version": "3.0.0",
+"version": "1.0.0",
 "description": "Simple WhatsApp Bot Multi Device",
 "main": "main.js",
 "type": "module",
@@ -10,7 +10,7 @@
 "plugins": "plugins"
 },
 "scripts": {
-"start": "node heavenly.js",
+"start": "node main.js",
 "qr": "main.js qr",
 "code": "main.js code",
 "test": "node test.js",
@@ -18,16 +18,16 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/CrxstianEscobar/ShadowBot-MD",
+"homepage": "https://github.com/",
 "author": {
-"name": "Cristian Escobar"
+"name": "Criss"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/CrxstianEscobar/ShadowBot-MD.git"
+"url": "git+https://github.com/.git"
 },
 "bugs": {
-"url": "https://github.com/CrxstianEscobar/ShadowBot-MD/issues"
+"url": "https://github.com/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
