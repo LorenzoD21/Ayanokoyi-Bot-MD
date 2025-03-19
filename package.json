@@ -24,10 +24,10 @@
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/.git"
+"url": "git+https://github.com/LorenzoD21/Ayanoki-Bot-MD.git"
 },
 "bugs": {
-"url": "https://github.com/issues"
+"url": "https://github.com/LorenzoD21/Ayanoki-Bot-MD/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
