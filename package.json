@@ -1,5 +1,5 @@
 {
-"name": "Ayanokoyi",
+"name": "AyanokoyiBot-MD",
 "version": "1.0.0",
 "description": "Simple WhatsApp Bot Multi Device",
 "main": "main.js",
@@ -18,7 +18,7 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/",
+"homepage": "https://github.com/LorenzoD21/Ayanoki-Bot-MD",
 "author": {
 "name": "Criss"
 },
