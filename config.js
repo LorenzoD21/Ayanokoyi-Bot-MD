@@ -34,9 +34,9 @@ global.textbot = `𝐴𝑌𝐴𝑁𝑂𝐾𝑂𝑌𝐼`
 global.vs = '1.0.0'
 
 
-global.imagen1 = fs.readFileSync('./media/menus/Menu.jpg')
-global.imagen2 = fs.readFileSync('./media/menus/Menu2.jpg')
-global.imagen3 = fs.readFileSync('./media/menus/Menu3.jpg')
+global.imagen1 = fs.readFileSync('./media/Menus/menu.jpg')
+global.imagen2 = fs.readFileSync('./media/Menus/menu2.jpg')
+global.imagen3 = fs.readFileSync('./media/Menus/menu3.jpg')
 global.catalogo = fs.readFileSync('./media/catalogo.jpg')
 global.shadowurl = fs.readFileSync('./media/kiyotakaurl.jpg')
 
