@@ -34,7 +34,11 @@ global.textbot = `𝐴𝑌𝐴𝑁𝑂𝐾𝑂𝑌𝐼`
 global.vs = '1.0.0'
 
 
-global.catalgo = fs.readFileSync('./media/catalogo')
+global.imagen1 = fs.readFileSync('./media/menus/Menu.jpg')
+global.imagen2 = fs.readFileSync('./media/menus/Menu2.jpg')
+global.imagen3 = fs.readFileSync('./media/menus/Menu3.jpg')
+global.catalogo = fs.readFileSync('./media/catalogo.jpg')
+global.shadowurl = fs.readFileSync('./media/kiyotakaurl.jpg')
 
 
 global.repobot = 'https://github.com/lorenzo262621/'
