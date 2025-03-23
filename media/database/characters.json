@@ -734,5 +734,753 @@
         ],
         "vid": [
             "https://files.catbox.moe/i0npod.mp4",
-           
-           
+            "https://files.catbox.moe/131x7l.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "40",
+        "name": "Alucard",
+        "gender": "Hombre",
+        "value": "100",
+        "source": "Hellsing",
+        "img": [
+            "https://files.catbox.moe/sfnm7l.jpg",
+            "https://files.catbox.moe/x5rj1d.jpg",
+            "https://files.catbox.moe/sfnm7l.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/m6zq9x.mp4",
+            "https://files.catbox.moe/i3an5b.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "39",
+        "name": "Benimaru Shinmon",
+        "gender": "Hombre",
+        "value": "100",
+        "source": "Fire Force",
+        "img": [
+            "https://files.catbox.moe/mwez4k.jpg",
+            "https://files.catbox.moe/g515kv.jpg",
+            "https://files.catbox.moe/rclp4y.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/l4jpl9.mp4",
+            "https://files.catbox.moe/na3lvl.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "42",
+        "name": "Light Yagami",
+        "gender": "Hombre",
+        "value": "100",
+        "source": "Death Note",
+        "img": [
+            "https://files.catbox.moe/5ipqcs.jpg",
+            "https://files.catbox.moe/x7pyc2.jpg",
+            "https://files.catbox.moe/sewn9s.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/tff5c1.mp4",
+            "https://files.catbox.moe/nm46ye.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "43",
+        "name": "Rika Takanashi",
+        "gender": "Mujer",
+        "value": "100",
+        "source": "Chūnibyō Demo Koi ga Shitai!",
+        "img": [
+            "https://files.catbox.moe/hm4h1t.jpg",
+            "https://files.catbox.moe/ei3tsm.jpg",
+            "https://files.catbox.moe/kkms3p.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "44",
+        "name": "Yui",
+        "gender": "Mujer",
+        "value": "100",
+        "source": "K-on",
+        "img": [
+            "https://files.catbox.moe/zsk6ae.jpg",
+            "https://files.catbox.moe/0woxlo.jpg",
+            "https://files.catbox.moe/0c5fm6.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "45",
+        "name": "Thor",
+        "gender": "Hombre",
+        "value": "100",
+        "source": "Record of Ragnarok",
+        "img": [
+            "https://qu.ax/HjyuD.jpg",
+            "https://qu.ax/vVXKq.jpg",
+            "https://qu.ax/mgJNq.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "46",
+        "name": "Brunhilde",
+        "gender": "mujer",
+        "value": "100",
+        "source": "Record of Ragnarok",
+        "img": [
+            "https://qu.ax/iQrlL.jpg",
+            "https://qu.ax/snsgd.jpg",
+            " https://qu.ax/GNzHF.jpg "
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "47",
+        "name": "Ryusei Shidou",
+        "gender": "Hombre",
+        "value": "100",
+        "source": "Blue lock",
+        "img": [
+            "https://qu.ax/mubkD.jpg",
+            "https://qu.ax/TSHYr.jpg",
+            " https://qu.ax/iOmSO.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "48",
+        "name": "Michael Kaiser Female",
+        "gender": "Mujer",
+        "value": "2000",
+        "source": "Blue lock",
+        "img": [
+            "https://qu.ax/VmQpL.jpg",
+            "https://qu.ax/SDchK.jpg",
+            "https://qu.ax/Pzoie.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "49",
+        "name": "Shidou fem",
+        "gender": "Mujer",
+        "value": "100",
+        "source": "Blue lock",
+        "img": [
+            "https://qu.ax/XduTu.jpg",
+            "https://qu.ax/QguJn.jpg",
+            "https://qu.ax/iUElR.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "50",
+        "name": "Michael Kaiser",
+        "gender": "Masculino",
+        "value": "100",
+        "source": "Blue Lock",
+        "img": [
+            "https://qu.ax/JuQkt.jpg",
+            "https://qu.ax/rsqkm.jpg",
+            "https://qu.ax/DfrHo.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "51",
+        "name": "Anri Teiri",
+        "gender": "Mujer",
+        "value": "100",
+        "source": "Blue lock",
+        "img": [
+            "https://qu.ax/FKgGa.jpg",
+            "https://qu.ax/LgQjt.jpg",
+            "https://qu.ax/LfufH.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "52",
+        "name": "Hilda De Polaris",
+        "gender": "Mujer",
+        "value": "100",
+        "source": "Los Caballeros Del Zodiaco",
+        "img": [
+            "https://qu.ax/ZOtdp.jpg",
+            "https://qu.ax/ySNrp.jpg",
+            " https://qu.ax/osvBt.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "53",
+        "name": "Apolo",
+        "gender": "Masculino",
+        "value": "100",
+        "source": "Record Of Ragnarok",
+        "img": [
+            "https://qu.ax/ZHUPK.jpg",
+            "https://qu.ax/rAXNH.jpg",
+            "https://qu.ax/xaPab.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "54",
+        "name": "Meliodas Liones",
+        "gender": "Hombre",
+        "value": "100",
+        "source": "Nanatsu no Taizai",
+        "img": [
+             "https://qu.ax/Lfqrl.jpg",
+             "https://qu.ax/zyElr.jpg",
+             "https://qu.ax/NoovX.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "55",
+        "name": "Giyuu Tomioka",
+        "gender": "Hombre",
+        "value": "100",
+        "source": "Kimetsu No Yaiba",
+        "img": [
+             "https://qu.ax/Jerqt.jpg",
+             "https://qu.ax/gmWPy.jpg",
+             "https://qu.ax/vgYUy.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "56",
+        "name": "Bakugou Katsuki",
+        "gender": "Hombre",
+        "value": "100",
+        "source": "Boku no hero",
+        "img": [
+            "https://qu.ax/DgOWT.jpg",
+            "https://qu.ax/PcGwH.jpg",
+            "https://qu.ax/eitUZ.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "57",
+        "name": "Satoru Gojo",
+        "gender": "Hombre",
+        "value": "100",
+        "source": "Jujutsu kaisen",
+        "img": [
+            "https://qu.ax/kuWvK.jpg",
+            "https://qu.ax/zfsnp.jpg",
+            "https://qu.ax/oBnCU.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "58",
+        "name": "Yuuji Itadori",
+        "gender": "Hombre",
+        "value": "100",
+        "source": "Jujutsu Kaisen",
+        "img": [
+            "https://qu.ax/hZadm.jpg",
+            "https://qu.ax/kvmwR.jpg",
+            "https://qu.ax/pYORV.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "59",
+        "name": "Naruto Uzumaki",
+        "gender": "Hombre",
+        "value": "100",
+        "source": "Naruto",
+        "img": [
+            "https://qu.ax/fgUhy.jpg",
+            "https://qu.ax/cryDV.jpg",
+            "https://qu.ax/LBCtL.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "60",
+        "name": "Violet Evergarden",
+        "gender": "Mujer",
+        "value": "100",
+        "source": "Violet Evergarden",
+        "img": [
+            "https://qu.ax/nLhbZ.jpg",
+            "https://qu.ax/CWoJh.jpg",
+            "https://qu.ax/EoeGH.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "61",
+        "name": "Momo Ayase",
+        "gender": "Mujer",
+        "value": "100",
+        "source": "Dan Dan, Dan",
+        "img": [
+            "https://qu.ax/VGpmR.jpg",
+            "https://qu.ax/XrZLb.jpg",
+            "https://qu.ax/BSmdo.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "62",
+        "name": "Monkey D. Luffy",
+        "gender": "Hombre",
+        "value": "100",
+        "source": "One Piece",
+        "img": [
+            "https://qu.ax/qrpDp.jpg",
+            "https://qu.ax/wnaQW.jpg",
+            "https://qu.ax/OMrmK.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "63",
+        "name": "Saitama",
+        "gender": "Hombre",
+        "value": "100",
+        "source": "One Punch Man",
+        "img": [
+            "https://qu.ax/HWwqs.jpg",
+            "https://qu.ax/iDyWa.jpg",
+            " https://qu.ax/upPNx.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "64",
+        "name": "Sanemi Shinazugawa",
+        "gender": "Hombre",
+        "value": "100",
+        "source": "Kimetsu No Yaiba",
+        "img": [
+            "https://qu.ax/PXeLt.jpg",
+            "https://qu.ax/zMfwj.jpg",
+            "https://qu.ax/temrj.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "65",
+        "name": "Tatsumaki",
+        "gender": "Mujer",
+        "value": "100",
+        "source": "One Punch Man",
+        "img": [
+            "https://qu.ax/PoWib.jpg",
+            "https://qu.ax/Fuwsg.jpg",
+            "https://qu.ax/qNtGb.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "66",
+        "name": "Reze",
+        "gender": "Mujer",
+        "value": "100",
+        "source": "Chainsaw Man",
+        "img": [
+            "https://qu.ax/ohiic.jpg",
+            "https://qu.ax/iTwbW.jpg",
+            "https://qu.ax/JnmEJ.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "67",
+        "name": "Asa Mitaka",
+        "gender": "Mujer",
+        "value": "100",
+        "source": "Chainsaw Man",
+        "img": [
+            "https://qu.ax/wmGgS.jpg",
+            "https://qu.ax/uZJzN.jpg",
+            "https://qu.ax/oaiVL.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "68",
+        "name": "Nari",
+        "gender": "Mujer",
+        "value": "100",
+        "source": "My Landlady Noona",
+        "img": [
+            "https://qu.ax/nlrjX.jpg",
+            "https://qu.ax/odTGU.jpg",
+            "https://qu.ax/Lzrpg.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "69",
+        "name": "Hari",
+        "gender": "Mujer",
+        "value": "100",
+        "source": "My Landlady Noona",
+        "img": [
+            "https://qu.ax/VmpoD.jpg",
+            "https://qu.ax/ZOblo.jpg",
+            "https://qu.ax/cxOUf.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "70",
+        "name": "Poseidón",
+        "gender": "Masculino",
+        "value": "100",
+        "source": "Record Of Ragnarok",
+        "img": [
+            "https://qu.ax/azCDp.jpg",
+            "https://qu.ax/nRTha.jpg",
+            "https://qu.ax/ssBnH.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "71",
+        "name": "Göndull",
+        "gender": "Femenino",
+        "value": "100",
+        "source": "Record Of Ragnarok",
+        "img": [
+            "https://qu.ax/NmDJm.jpg",
+            "https://qu.ax/evvez.jpg",
+            "https://qu.ax/NgdKB.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "72",
+        "name": "Sophie Min",
+        "gender": "Mujer",
+        "value": "100",
+        "source": "Silent War",
+        "img": [
+            "https://qu.ax/vgusu.jpg",
+            "https://qu.ax/ejPnL.jpg",
+            "https://qu.ax/XsFFM.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "73",
+        "name": "Anna Hong",
+        "gender": "Mujer",
+        "value": "100",
+        "source": "Silent War",
+        "img": [
+            "https://qu.ax/tXokd.jpg",
+            "https://qu.ax/cUqHJ.jpg",
+            "https://qu.ax/MsQOQ.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "74",
+        "name": "Lina Joo",
+        "gender": "Mujer",
+        "value": "100",
+        "source": "Silent War",
+        "img": [
+            "https://qu.ax/akjzd.jpg",
+            "https://qu.ax/NDTyE.jpg",
+            "https://qu.ax/Cpuoa.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "75",
+        "name": "Dia Song",
+        "gender": "Mujer",
+        "value": "100",
+        "source": "Silent War",
+        "img": [
+            "https://qu.ax/vdLbu.jpg",
+            "https://qu.ax/QdvNz.jpg",
+            "https://qu.ax/UzVTx.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "76",
+        "name": "Shinobu Kocho",
+        "gender": "Mujer",
+        "value": "100",
+        "source": "Kimetsu No Yaiba",
+        "img": [
+            "https://qu.ax/MAWsU.jpg",
+            "https://qu.ax/RyYsq.jpg",
+            "https://qu.ax/MlBiq.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "77",
+        "name": "Zenitsu Agatsuma",
+        "gender": "Hombre",
+        "value": "100",
+        "source": "Kimetsu No Yaiba",
+        "img": [
+            "https://qu.ax/EMwLJ.jpg",
+            "https://qu.ax/WXgmD.jpg",
+            "https://qu.ax/SvgVg.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "78",
+        "name": "Kanae Kocho",
+        "gender": "Mujer",
+        "value": "100",
+        "source": "Kimetsu no yaiba",
+        "img": [
+            "https://qu.ax/JJSeJ.jpg",
+            "https://qu.ax/OeASO.jpg",
+            "https://qu.ax/Slkdc.jpg"
+        ],
+        "vid": [
+            "https://files.catbox.moe/video1_light.mp4",
+            "https://files.catbox.moe/video2_light.mp4"
+        ],
+        "user": null,
+        "status": "Libre",
+        "votes": 0
+    },
+    {
+        "id": "79",
+        "name": "Gyome
