@@ -35,7 +35,7 @@ const defaultMenu = {
 ✦  👤 *Cliente:* %name
 ✦  🌑 *Modo:* Público
 ✧  🕸️ *Baileys:* Multi Device
-✦  🪐 *Tiempo Activo:* %muptime
+✦  🔥 *Tiempo Activo:* %muptime
 ✧  🫧 *Usuarios:* %totalreg 
 ╚━━━━━━━━━━━━━━
 
