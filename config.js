@@ -34,7 +34,7 @@ global.imagen1 = fs.readFileSync('./media/Menus/menu.jpg')
 global.imagen2 = fs.readFileSync('./media/Menus/menu2.jpg')
 global.imagen3 = fs.readFileSync('./media/Menus/menu3.jpg')
 global.catalogo = fs.readFileSync('./media/catalogo.jpg')
-global.shadowurl = fs.readFileSync('./media/kiyotakaurl.jpg')
+global.kiyotakaurl = fs.readFileSync('./media/kiyotakaurl.jpg')
 
 global.repobot = 'https://github.com/lorenzo262621/'
 global.grupo = 'https://chat.whatsapp.com/FBFdmo5GsJcLbvobvjt9Fi'
