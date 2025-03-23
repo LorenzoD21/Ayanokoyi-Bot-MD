@@ -60,7 +60,7 @@ global.wait = '*[ ⏳ ] Aguarde un momento...*';
 
 //ENLACES
 var grupo = 'https://chat.whatsapp.com/LsMm6FV0b7uEmGb4uPcxQD'  
-var github = 'https://github.com/CrxstianEscobar/ShadowBot-MD' 
+var github = 'https://github.com/LorenzoD21/Ayanokoyi-Bot-MD/tree/main/plugins' 
 var web = 'https://Ayanokoyi.vercel.app/' 
 let instagram = ''
 
@@ -128,20 +128,20 @@ global.readMore = more.repeat(850)
 
 global.authsticker = `\n\n🍪 mᥲძᥱ ᑲᥡ:\n↳協 ֪ 𝕂𝕀𝕐𝕆𝕋𝔸𝕂𝔸  ⚡︎  𝔸𝕐𝔸ℕ𝕆𝕂𝕆𝕐𝕀 ׄ🍒˚ .\n\n👤 rᥱ𝗊ᥙіrᥱძ ᑲᥡ\n↳@${conn.getName(m.sender)}`;
 
-global.packsticker = `ꨴ ☁꣺ꤪ꤬꤯ꨬꨶ ̷̸̲̼̈́ 𝕂𝕀𝕪𝕠𝕥𝕒𝕜𝕒 𝕘𝕣𝕠𝕦𝕡-𝕄𝔻 彡\n↳@moonforce_team\n\n☘️ іᥒ𝖿᥆rmᥲ𝗍і᥆ᥒ\n↳Wa.me/51927238856`
+global.packsticker = `ꨴ ☁꣺ꤪ꤬꤯ꨬꨶ ̷̸̲̼̈́ 𝕂𝕀𝕪𝕠𝕥𝕒𝕜𝕒 𝕘𝕣𝕠𝕦𝕡-𝕄𝔻 彡\n↳@moonforce_team\n\n☘️ іᥒ𝖿᥆rmᥲ𝗍і᥆ᥒ\n↳Wa.me/18493140441`
 
 //FAKES
 global.fkontak = { key: { participants:"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 
-global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363318267632676@newsletter', newsletterName: "˚₊·͟͟͟͟͟͟͞͞͞͞͞͞ᴋɪʏᴏᴛᴀᴋᴀ ɢʀᴏᴜᴘ-𝑴𝑫ೃ࿔₊•", serverMessageId: -1 }
+global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363414273915803@newsletter', newsletterName: "˚₊·͟͟͟͟͟͟͞͞͞͞͞͞ᴋɪʏᴏᴛᴀᴋᴀ ɢʀᴏᴜᴘ-𝑴𝑫ೃ࿔₊•", serverMessageId: -1 }
 }}, { quoted: m }
 
 //ID CANALES
-global.idchannel = '120363357231409846@newsletter'
-global.canalIdM = ["120363357231409846@newsletter", "120363357231409846@newsletter", "120363357231409846@newsletter"]
-global.canalNombreM = ["⏤͟͟͞͞𝖲𝗁ᥲძ𝗈ա  ⚡︎  𝖴𝗅𝗍𝗋𝖺۵࿐", "𝑺𝒉𝒂𝒅𝒐𝒘 𝑼𝒍𝒕𝒓𝒂 - 𝑴𝑫", "⏤͟͟͞͞☆ 𝑺𝒉𝒂𝒅𝒐𝒘 - 𝑻𝒆𝒔𝒕"]
+global.idchannel = '120363414273915803@newsletter'
+global.canalIdM = ["120363414273915803@newsletter", "120363414273915803@newsletter", "120363414273915803@newsletter"]
+global.canalNombreM = ["⏤͟͟͞͞𝑨𝒚𝒂𝒏𝒐𝒌𝒐𝒚𝒊  ⚡︎  𝒌𝒊𝒚𝒐𝒕𝒂𝒌𝒂۵࿐", "𝑲𝒊𝒚𝒐𝒕𝒂𝒌𝒂-𝑨𝒚𝒂𝒏𝒐𝒌𝒐𝒚𝒊 𝑴𝑫", "⏤͟͟͞͞☆ 𝑨𝒚𝒂𝒏𝒐𝒌𝒐𝒚𝒊 - 𝑻𝒆𝒔𝒕"]
 global.channelRD = await getRandomChannel()
-// global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "3876577197-120363302285079181@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: `${packname}`, orderTitle: 'Bang', thumbnail: icons, sellerJid: '0@s.whatsapp.net'}}}
+// global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "3876577197-120363414273915803@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: `${packname}`, orderTitle: 'Bang', thumbnail: icons, sellerJid: '0@s.whatsapp.net'}}}
 
 global.icono = [
 'https://files.catbox.moe/uho7vk.jpg',
