@@ -1,4 +1,4 @@
-//By Criss Escobar 
+//By Lorenzo 
 import { execSync } from 'child_process'
 
 let handler = async (m, { conn, text }) => {
