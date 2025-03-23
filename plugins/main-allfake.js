@@ -32,15 +32,15 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 //let pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/file/327f6ad853cb4f405aa80.jpg')
 
 //CREADOR Y OTROS
-global.creador = 'Wa.me/51927238856'
+global.creador = 'Wa.me/18493240441'
 global.botreal = `${(conn.user.jid == global.conn.user.jid ? 'Oficial' : 'Sub-Bot')}`
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/51927238856'
-global.namech = '𝑺𝒉𝒂𝒅𝒐𝒘 𝑩𝒐𝒕 - 𝑴𝑫'
+global.asistencia = 'Wa.me/18493140441'
+global.namech = '𝑨𝒀𝑨𝑵𝑶𝑲𝑶𝒀𝑰-𝑩𝑶𝑻-𝑴𝑫'
 global.namechannel2 = 'ꨴ ☁꣺ꤪ꤬꤯ꨬꨶ ̷̸̲̼̈́ Mᴏᴏɴ Fᴏʀᴄᴇ Ƭᴇᴀᴍ 彡'
-global.namegrupo = 'Group Shadow Oficial'
-global.namecomu = 'Heavenly Team Community'
-global.namecomu2 = '☕ Heavenly Team Community'
+global.namegrupo = 'Group 𝑲𝑰𝒀𝑶𝑻𝑨𝑲𝑨 Oficial'
+global.namecomu = '𝑨𝒀𝑨𝑵𝑶𝑲𝑶𝒀𝑰 Team Community'
+global.namecomu2 = '𝔸𝕐𝔸ℕ𝕆𝕂𝕆𝕐𝕀 Team Community'
 
 //REACCIONES 
 global.rwait = '🕒'
@@ -48,21 +48,21 @@ global.done = '✅'
 global.error = '✖️'
 
 //EMOJIS PREDETERMINADOS
-global.emoji = '🌷'
-global.emoji2 = '🤍'
-global.emoji3 = '☕'
-global.emoji4 = '🍨'
-global.emoji5 = '🍃'
+global.emoji = '🌑'
+global.emoji2 = '🌕'
+global.emoji3 = '🕸️'
+global.emoji4 = '🫩'
+global.emoji5 = '🫂'
 global.emojis = [emoji, emoji2, emoji3, emoji4, emoji5].getRandom()
 
 //MENSAJE DE ESPERA 
 global.wait = '*[ ⏳ ] Aguarde un momento...*';
 
 //ENLACES
-var grupo = 'https://chat.whatsapp.com/FCS6htvAmlT7nq006lxU4I'  
+var grupo = 'https://chat.whatsapp.com/LsMm6FV0b7uEmGb4uPcxQD'  
 var github = 'https://github.com/CrxstianEscobar/ShadowBot-MD' 
-var web = 'https://shadow-bot.vercel.app/' 
-let instagram = 'https://www.instagram.com/shadowbot.md'
+var web = 'https://Ayanokoyi.vercel.app/' 
+let instagram = ''
 
 global.redes = [grupo, github, web, instagram].getRandom()
 
@@ -126,14 +126,14 @@ global.taguser = '@' + m.sender.split("@s.whatsapp.net")
 var more = String.fromCharCode(8206)
 global.readMore = more.repeat(850)
 
-global.authsticker = `\n\n🍪 mᥲძᥱ ᑲᥡ:\n↳協 ֪ Տһᥲ͡ძ͜᥆፝֟ա  ⚡︎  Uᥣ𝗍rᥲ ׄ🍒˚ .\n\n👤 rᥱ𝗊ᥙіrᥱძ ᑲᥡ\n↳@${conn.getName(m.sender)}`;
+global.authsticker = `\n\n🍪 mᥲძᥱ ᑲᥡ:\n↳協 ֪ 𝕂𝕀𝕐𝕆𝕋𝔸𝕂𝔸  ⚡︎  𝔸𝕐𝔸ℕ𝕆𝕂𝕆𝕐𝕀 ׄ🍒˚ .\n\n👤 rᥱ𝗊ᥙіrᥱძ ᑲᥡ\n↳@${conn.getName(m.sender)}`;
 
-global.packsticker = `ꨴ ☁꣺ꤪ꤬꤯ꨬꨶ ̷̸̲̼̈́ Mᴏᴏɴ Fᴏʀᴄᴇ Ƭᴇᴀᴍ 彡\n↳@moonforce_team\n\n☘️ іᥒ𝖿᥆rmᥲ𝗍і᥆ᥒ\n↳Wa.me/51927238856`
+global.packsticker = `ꨴ ☁꣺ꤪ꤬꤯ꨬꨶ ̷̸̲̼̈́ 𝕂𝕀𝕪𝕠𝕥𝕒𝕜𝕒 𝕘𝕣𝕠𝕦𝕡-𝕄𝔻 彡\n↳@moonforce_team\n\n☘️ іᥒ𝖿᥆rmᥲ𝗍і᥆ᥒ\n↳Wa.me/51927238856`
 
 //FAKES
 global.fkontak = { key: { participants:"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 
-global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363318267632676@newsletter', newsletterName: "˚₊·͟͟͟͟͟͟͞͞͞͞͞͞𝑴𝒐𝒐𝒏 𝑭𝒐𝒓𝒄𝒆 - 𝑻𝒆𝒂𝒎 ೃ࿔₊•", serverMessageId: -1 }
+global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363318267632676@newsletter', newsletterName: "˚₊·͟͟͟͟͟͟͞͞͞͞͞͞ᴋɪʏᴏᴛᴀᴋᴀ ɢʀᴏᴜᴘ-𝑴𝑫ೃ࿔₊•", serverMessageId: -1 }
 }}, { quoted: m }
 
 //ID CANALES
