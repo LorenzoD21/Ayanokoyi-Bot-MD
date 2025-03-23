@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';
 
 let handler = async (m, { conn, usedPrefix, text, args, command }) => {
-   await m.react('🎩');
+   await m.react('🌕');
 
     let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender;
     let name = await conn.getName(who);
@@ -10,7 +10,7 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
 
     // VCARD
     let list = [{
-        displayName: "Lorenzo 🎩",
+        displayName: "Lorenzo 🌑",
         vcard: `BEGIN:VCARD\nVERSION:3.0\nFN: ʟᴏʀᴇɴᴢᴏ-ᴏғғɪᴄɪᴀʟ🍭\nitem1.TEL;waid=50557865603:50557865603\nitem1.X-ABLabel:Número\nitem2.EMAIL;type=INTERNET: lorenzobuten02@gmail.com\nitem2.X-ABLabel:Email\nitem3.URL:\nitem3.X-ABLabel:Internet\nitem4.ADR:;; República Dominicana;;;;\nitem4.X-ABLabel:Region\nEND:VCARD`,
     }];
 
