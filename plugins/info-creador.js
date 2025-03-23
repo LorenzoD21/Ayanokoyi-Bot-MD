@@ -11,7 +11,7 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
     // VCARD
     let list = [{
         displayName: "Lorenzo 🎩",
-        vcard: `BEGIN:VCARD\nVERSION:3.0\nFN: ʟᴏʀᴇɴᴢᴏ-ᴏғғɪᴄɪᴀʟ🍭\nitem1.TEL;waid=50557865603:50557865603\nitem1.X-ABLabel:Número\nitem2.EMAIL;type=INTERNET: ninopina10@gmail.com\nitem2.X-ABLabel:Email\nitem3.URL:https://www.instagram.com/crowbot_wa\nitem3.X-ABLabel:Internet\nitem4.ADR:;; Nicaragua;;;;\nitem4.X-ABLabel:Region\nEND:VCARD`,
+        vcard: `BEGIN:VCARD\nVERSION:3.0\nFN: ʟᴏʀᴇɴᴢᴏ-ᴏғғɪᴄɪᴀʟ🍭\nitem1.TEL;waid=50557865603:50557865603\nitem1.X-ABLabel:Número\nitem2.EMAIL;type=INTERNET: lorenzobuten02@gmail.com\nitem2.X-ABLabel:Email\nitem3.URL:\nitem3.X-ABLabel:Internet\nitem4.ADR:;; República Dominicana;;;;\nitem4.X-ABLabel:Region\nEND:VCARD`,
     }];
 
     await conn.sendMessage(m.chat, {
@@ -25,7 +25,7 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
                 title: 'һ᥆ᥣᥲ s᥆ᥡ ʟᴏʀᴇɴᴢᴏ ᥱᥣ mᥱȷ᥆r',
                 body: dev,
                 thumbnailUrl: 'https://i.ibb.co/4Zg31Wsc/file.jpg',
-                sourceUrl: 'https://github.com/WillZek',
+                sourceUrl: 'https://github.com/LorenzoD21/Ayanokoyi-Bot-MD/tree/main',
                 mediaType: 1,
                 renderLargerThumbnail: true
             }
