@@ -30,7 +30,7 @@ global.nombrebot = '𝐴𝑌𝐴𝑁𝑂𝐾𝑂𝑌𝐼'
 global.textbot = `𝐴𝑌𝐴𝑁𝑂𝐾𝑂𝑌𝐼`
 global.vs = '1.0.0'
 
-global.imagen1 = fs.readFileSync('./media/Menus/menu.jpg')
+global.imagen1 = fs.readFileSync('./media/Menus/menu1.jpg')
 global.imagen2 = fs.readFileSync('./media/Menus/menu2.jpg')
 global.imagen3 = fs.readFileSync('./media/Menus/menu3.jpg')
 global.catalogo = fs.readFileSync('./media/catalogo.jpg')
