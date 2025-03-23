@@ -7,18 +7,15 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 import moment from 'moment-timezone' 
 
-
 global.owner = [
    ['18493140441', 'Lorenzo Michael', true],
    ['51927238856', 'Criss Escobar', true],
    ['51990841568', 'Ultra Device', false]
 ]
 
-
 global.mods = ['18493140441', '51927238856']
 
 global.prems = ['51927238856']
-
 
 global.packname = '𝐴𝑌𝐴𝑁𝑂𝐾𝑂𝑌𝐼'
 global.botname = '𝐴𝑌𝐴𝑁𝑂𝐾𝑂𝑌𝐼'
@@ -33,30 +30,24 @@ global.nombrebot = '𝐴𝑌𝐴𝑁𝑂𝐾𝑂𝑌𝐼'
 global.textbot = `𝐴𝑌𝐴𝑁𝑂𝐾𝑂𝑌𝐼`
 global.vs = '1.0.0'
 
-
 global.imagen1 = fs.readFileSync('./media/Menus/menu.jpg')
 global.imagen2 = fs.readFileSync('./media/Menus/menu2.jpg')
 global.imagen3 = fs.readFileSync('./media/Menus/menu3.jpg')
 global.catalogo = fs.readFileSync('./media/catalogo.jpg')
 global.shadowurl = fs.readFileSync('./media/kiyotakaurl.jpg')
 
-
 global.repobot = 'https://github.com/lorenzo262621/'
 global.grupo = 'https://chat.whatsapp.com/FBFdmo5GsJcLbvobvjt9Fi'
 global.comu = ''
 global.channel = 'https://whatsapp.com/channel/0029Vb9jL4r6rsQssSjulU3X'
 
-
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "543876577197-120363317332020195@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'MOONFORCE 乂 TEAM', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
-
-
 
 global.cheerio = cheerio
 global.fs = fs
 global.fetch = fetch
 global.axios = axios
 global.moment = moment        
-
 
 global.multiplier = 69 
 global.maxwarn = '3'
