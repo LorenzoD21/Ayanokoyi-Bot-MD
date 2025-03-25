@@ -47,20 +47,20 @@ const rtotalreg = Object.values(global.db.data.users).filter(user => user.regist
 SHADOW ULTRA BY BK-CRISS7 🥀
 - Para el menú completo usa *.allmenu*
 ㅤ· · ────── ·•· ────── · · 
-*╭┄⊰* TEST CTMR v:
-*│* დ _.menuanimes_
-*│* დ _.menuaudios_
-*│* დ _.menulogos_
-*│* დ _.menuowner_
-*│* დ _.audeffects_
-*│* დ _.menurec_
-*│* დ _.menu18_
-*│* დ _.menuff_
-*╰─────────────────┄⊰*`.trim();
+*╔═══❖•ೋ°𝑴𝑬𝑵𝑼𝑺 °ೋ•❖═══╗*
+*╏* ➬ _.menuanimes_
+*╏* ➬ _.menuaudios_
+*╏* ➬ _.menulogos_
+*╏* ➬ _.menuowner_
+*╏* ➬ _.audeffects_
+*╏* ➬ _.menurec_
+*╏* ➬ _.menu18_
+*╏* ➬ _.menuff_
+*╚═══❖•ೋ° °ೋ•❖═══╝*`.trim();
 
     conn.sendMessage(m.chat, { image: { url: img }, caption: str, mentions: [m.sender] }, { quoted: fkontak });
 
-await conn.sendMessage(m.chat, { react: { text: '🤍', key: m.key } });
+await conn.sendMessage(m.chat, { react: { text: '☃️', key: m.key } });
 
   } catch {
     conn.reply(m.chat,'╰⊱❌⊱ *_ERROR_* ⊱❌⊱╮\n\n*_EL MENÚ ESTÁ FALLANDO INTENTE DE NUEVO MÁS TARDE_*', m);
