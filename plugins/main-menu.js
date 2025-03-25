@@ -26,7 +26,7 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, com
 
         let menu = `
 ㅤㅤㅤ⩁꯭ ͡  ͡ᩚ꯭ ꯭⩁ㅤㅤ𑁯🌕ᰍㅤㅤ⩁꯭ ͡  ͡ᩚ꯭ ꯭⩁
-೯ ׅ 👤 ¡𝘏𝘐! ¿𝘊𝘖𝘔𝘖 𝘌́𝘚𝘛𝘈𝘚? ׄ ᦡᦡ
+೯ ׅ 👤 ¡𝘏𝘐! ¿𝘊𝘖𝘔𝘖 E𝘚𝘛𝘈𝘚? ׄ ᦡᦡ
 ㅤ꒰͜͡${taguser}
 ㅤㅤ♡𑂳ᩙㅤ ּ ${saludo} ׄ ㅤタス
 
@@ -307,7 +307,7 @@ ${readMore}
                 isForwarded: true,
                 forwardingScore: 999,
                 externalAdReply: {
-                    title: '⏤͟͞ू⃪ ፝͜⁞𝗔𝗬𝗔𝗡𝗢𝗞𝗢𝗬𝗜-𝗞𝗨𝗡,
+                    title: '⏤͟͞ू⃪ ፝͜⁞𝗔𝗬𝗔𝗡𝗢𝗞𝗢𝗬𝗜-𝗞𝗨𝗡',
                     thumbnailUrl: perfil,
                     mediaType: 1,
                     renderLargerThumbnail: false,
