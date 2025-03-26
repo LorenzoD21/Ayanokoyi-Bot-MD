@@ -47,7 +47,7 @@ ${readMore}
 ര ׄ 🌹˚ ${usedPrefix}menuowner
 ര ׄ 🌹˚ ${usedPrefix}menulogos
 
-✞☃𓆤   *\`informacion\`* 𓆤☃✞
+   *\`ⅈ𝖓𝚏օ𝔯ｍɑｃⅈօ𝖓\`* 
 ➩ ✎ 🌸˚ ${usedPrefix}totalf
 ➩ ✎ 🌸˚ ${usedPrefix}grupos
 ➩ ✎ 🌸˚ ${usedPrefix}sugerir
