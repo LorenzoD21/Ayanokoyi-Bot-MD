@@ -47,23 +47,23 @@ ${readMore}
 ര ׄ 🌹˚ ${usedPrefix}menuowner
 ര ׄ 🌹˚ ${usedPrefix}menulogos
 
-𓂂𓏸  𐅹੭੭   *\`іᥒ𝖿᥆\`*   🫖ᩚ꤬ᰨᰍ
-ര ׄ 🌸˚ ${usedPrefix}totalf
-ര ׄ 🌸˚ ${usedPrefix}grupos
-ര ׄ 🌸˚ ${usedPrefix}sugerir
-ര ׄ 🌸˚ ${usedPrefix}report
-ര ׄ 🌸˚ ${usedPrefix}owner
-ര ׄ 🌸˚ ${usedPrefix}ping
-ര ׄ 🌸˚ ${usedPrefix}uptime
-ര ׄ 🌸˚ ${usedPrefix}horario
-ര ׄ 🌸˚ ${usedPrefix}precios
+✞☃𓆤   *\`informacion\`* 𓆤☃✞
+➩ ✎ 🌸˚ ${usedPrefix}totalf
+➩ ✎ 🌸˚ ${usedPrefix}grupos
+➩ ✎ 🌸˚ ${usedPrefix}sugerir
+➩ ✎ 🌸˚ ${usedPrefix}report
+➩ ✎ 🌸˚ ${usedPrefix}owner
+➩ ✎ 🌸˚ ${usedPrefix}ping
+➩ ✎ 🌸˚ ${usedPrefix}uptime
+➩ ✎ 🌸˚ ${usedPrefix}horario
+➩ ✎ 🌸˚ ${usedPrefix}precios
 
-𓂂𓏸  𐅹੭੭   *\`᥆ᥒ - ᥆𝖿𝖿\`*   🌿ᩚ꤬ᰨᰍ
-ര ׄ 🍂˚ ${usedPrefix}enable *opción*
-ര ׄ 🍂˚ ${usedPrefix}disable *opción*
-ര ׄ 🍂˚ ${usedPrefix}on *opción*
-ര ׄ 🍂˚ ${usedPrefix}off *opción*
-ര ׄ 🍂˚ ${usedPrefix}manual
+   *\`𝔬𝔫 - 𝔬𝔣𝔣\`*
+➩ ✎ 🍂˚ ${usedPrefix}enable *opción*
+➩ ✎ 🍂˚ ${usedPrefix}disable *opción*
+➩ ✎ 🍂˚ ${usedPrefix}on *opción*
+➩ ✎ 🍂˚ ${usedPrefix}off *opción*
+➩ ✎ 🍂˚ ${usedPrefix}manual
 
 𓂂𓏸  𐅹੭੭   *\`ძᥱsᥴᥲrgᥲs\`*   📥ᩚ꤬ᰨᰍ
 ര ׄ 🪷˚ ${usedPrefix}play *texto*
